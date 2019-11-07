@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Dmytro Portfolio</string>
+    <string name="app_get_in_touch">Get in touch</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="about_fragment">"\n" I graduated from Centennial College Software
+        Engineering Advanced Diploma program in April 2019 and I have significant
+        experience in programming in Java and C# developing API, mobile and web
+        applications with databases. I have a master’s degree in economics and
+        big experience of working as an economist so I can utilise my strong
+        analytical skills while writing code.
+        "\n" At my study period at Centennial College, I gained extensive abilities in software
+        designing and testing working alone as well as in a team.
+        I performed numerous projects in JAVA and C# and acquired significant skills in coding.
+        My knowledge on data structure concepts and algorithms helps me to
+        achieve the maximal performance
+        and effectiveness of my code.
+    </string>
+    <string name="contact_fragment">"\n"
+        2 Medway Cres, Toronto, ON M1P 3T8 "\n\n"
+        (647) 806-4151   "\n\n"
+        dmitro.geras@gmail.com "\n\n"
+        http://www.linkedin.com/in/dmytro-geras
+
+    </string>
+    <string name="education_fragment">"\n"
+        <b>Software Engineering Technology Advanced Diploma</b>"\n"  Jan. 2018 - April 2019"\n"
+        Centennial College, Toronto, ON"\n"
+        GPA : 3.9 /4.5"\n\n"
+
+        <b>Master of Economics – Economy and management</b>"\n" Sept. 1993 - June 1998"\n"
+        Ivano-Frankivsk National University of Oil and Gas,"\n" Ukraine"\n\n"
+
+        <b>Bachelor of Mechanics – Construction and operation of gas pipelines</b>"\n"
+        Sept. 2000 - June 2001"\n"
+        Ivano-Frankivsk National University of Oil and Gas,"\n" Ukraine
+
+    </string>
+    <string name="skills_fragment">"\n"
+        * ASP.NET / .NET CORE, C#, REST"\n"
+        * Java EE, Java, Android Studio"\n"
+        * JavaScript/Angular2+, Node.js, Express"\n"
+        * HTML, CSS, DOM, HTTP, SSL, web servers"\n"
+        * SQL, Oracle, MySQL, MongoDB, xml, JSON, GIT"\n"
+        * Good knowledge of Data structures and algorithms"\n"
+        * Amazon Web Services (EC2, S3, RDS, Elastic Beanstalk, Lambda)"\n"
+        * Familiar with ERP and business processes, good knowledge of Office 2016"\n"
+        * Excellent interpersonal skills, very fast learner
+
+    </string>
+
+    <string name="phoneNumber">6478064151</string>
+
+</resources>
